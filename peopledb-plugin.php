@@ -30,7 +30,7 @@ class PeopledbPlugin{
   }
 
   function deactivate(){
-    // echo 'the plugin was activated';
+    echo 'the plugin was activated';
   }
 
   function uninstall(){
